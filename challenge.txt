@@ -1,0 +1,3 @@
+http://www.cs.ox.ac.uk/isg/challenges/sem-tab/
+https://github.com/alan-turing-institute/SemAIDA
+https://biochallenge.bio2vec.net/
