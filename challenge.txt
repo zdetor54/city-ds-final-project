@@ -1,3 +1,13 @@
 http://www.cs.ox.ac.uk/isg/challenges/sem-tab/
 https://github.com/alan-turing-institute/SemAIDA
 https://biochallenge.bio2vec.net/
+
+https://arxiv.org/abs/1804.10922
+https://arxiv.org/abs/1802.00864
+
+
+https://bioportal.bioontology.org/
+https://www.nlm.nih.gov/research/umls/index.html
+
+create the embeddings
+http://ceur-ws.org/Vol-2788/om2020_poster3.pdf
