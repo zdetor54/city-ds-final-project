@@ -11,3 +11,5 @@ https://www.nlm.nih.gov/research/umls/index.html
 
 create the embeddings
 http://ceur-ws.org/Vol-2788/om2020_poster3.pdf
+
+https://github.com/alan-turing-institute/ptype
