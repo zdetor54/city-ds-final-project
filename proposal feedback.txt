@@ -1,0 +1,8 @@
+Marking guide
+
+Introduction (15%): The problem is well introduced, but the RQ is quite generic. More specific could be: Can (KG) embedding improve the accuracy of traditional KG to tabular data matching systems? Or Can we leverage ColNet CTA techniques to the CEA task?
+Critical Context (15%): The critical context focuses the scope on SemTab but misses to highlight an important point, systems are not perfect when facing real datasets as the Tough Tables one. This is a good motivation for this project. Some additional background about KGs is also required. The description of the automatic dataset generator is not that relevant, especially the RDF step, as it was not used in 2020. As a side note, MTab/IDLab represent good engineering works but they lack a novel technique.
+Approaches (40%): As mentioned, the report aims at giving a general overview instead of focusing on concrete techniques, but at the same time it misses the opportunity to mention the potential use of embedding or other techniques. CTA, CEA and CPA will benefit from each other. One could have several iterations. We could also use the datasets from 2020 to target Wikidata including Tough tables that targets both DBpedia and Wikidata.
+Work Plan (10%): The plan is very comprehensive and has been split into several phase.
+Risks (10%): Risks are well presented with a contingency plan.
+Presentation (10%): The report is easy to follow and it just contains a few minor issues: - Missing title - Broken reference to Figure 1: Error! Reference source not found. - (OntoNotes 5) -> ? - Ref -> References
